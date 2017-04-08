@@ -1,0 +1,25 @@
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe.config
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.pdb
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.dll
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.pdb
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Properties.Resources.resources
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Form1.resources
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe.config
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.pdb
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.dll
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.pdb
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Form1.resources
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
+C:\Users\Lucas\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb
+C:\Users\Lucas\Desktop\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe.config
+C:\Users\Lucas\Desktop\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
+C:\Users\Lucas\Desktop\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb
