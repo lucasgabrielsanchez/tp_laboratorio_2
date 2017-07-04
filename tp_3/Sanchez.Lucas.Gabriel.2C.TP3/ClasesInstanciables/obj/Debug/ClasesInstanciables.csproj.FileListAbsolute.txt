@@ -1,0 +1,11 @@
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\bin\Debug\Entidades.dll
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\bin\Debug\Entidades.pdb
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Isabel\Desktop\TP3 DENUEVO\Sanchez.Lucas.Gabriel.2C.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
